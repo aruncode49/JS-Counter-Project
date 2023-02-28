@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(50, 50, 50);
+}
+
+
+h1{
+    font-size: 3rem;
+    color: aquamarine;
+}
+
+h3{
+    font-size: 1.5rem;
+    color: bisque;
+}
+
+.main{
+    position: absolute;
+    top: 50%;   
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
