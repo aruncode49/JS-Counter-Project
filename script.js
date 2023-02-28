@@ -13,4 +13,4 @@ setInterval(() => {
 
 setTimeout(() => {
     followers.innerText = "Followers in Instagram";
-}, 5200);
+}, 4900);
