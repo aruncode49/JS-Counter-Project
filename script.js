@@ -12,5 +12,5 @@ setInterval(() => {
 } , 1);
 
 setTimeout(() => {
-    followers.innerText = "Followers in Instagram";
+    followers.innerText = "Welcome 😊";
 }, 4900);
